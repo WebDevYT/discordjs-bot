@@ -1,0 +1,23 @@
+{
+  "name": "eggbot",
+  "version": "1.0.0",
+  "description": "A Discord.js \"Discord\" bot named \"Egg Bot\"",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoftWeb12/discordjs-discord-eggbot.git"
+  },
+  "author": "Web",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoftWeb12/discordjs-discord-eggbot/issues"
+  },
+  "homepage": "https://github.com/SoftWeb12/discordjs-discord-eggbot#readme"
+}
