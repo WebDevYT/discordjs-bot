@@ -33,7 +33,7 @@ const cooldowns = new Discord.Collection();
 // this event will only trigger one time after logging in
 client.once('ready', () => {
     console.log('Ready!');
-    client.user.setActivity('Sub 2 Web on YT');
+    client.user.setActivity('egg!help', { type: 'LISTENING' });
 });
 
 // Create an event listener for messages
